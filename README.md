@@ -17,6 +17,8 @@ proposed methods of CNN and Contour achieved the accuracy of
 
 ![Certificate of partisipation](https://user-images.githubusercontent.com/68731278/116375440-e9d4d900-a82c-11eb-8a41-4650370a70d3.png)
 
+![Certificate of participation_2](https://user-images.githubusercontent.com/68731278/116422334-46e88300-a85d-11eb-828a-1651adb497e5.png)
+
 
 ![Acceptance of Research Paper](https://user-images.githubusercontent.com/68731278/116375460-ed686000-a82c-11eb-9d33-3f3b6ac35a7a.png)
 
