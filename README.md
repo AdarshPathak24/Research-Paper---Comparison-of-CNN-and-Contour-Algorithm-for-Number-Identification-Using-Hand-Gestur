@@ -39,7 +39,27 @@ proposed methods of CNN and Contour achieved the accuracy of
 ![Common Word  - I LOVE YOU prediction](https://user-images.githubusercontent.com/68731278/116372031-a62ca000-a829-11eb-8b58-a54f1961218d.png)
 
 
+![Number 3 Prediction](https://user-images.githubusercontent.com/68731278/116373544-11c33d00-a82b-11eb-9625-b68f69524b70.png)
+
+
+![Common Word - NICE! Prediction](https://user-images.githubusercontent.com/68731278/116373764-46cf8f80-a82b-11eb-9b79-b0e2c696c640.png)
+
+
+
+![Collect data file](https://user-images.githubusercontent.com/68731278/116372644-4256a700-a82a-11eb-8280-ab3c71a4c0b4.png)
+
+
+
 ![Dataset](https://user-images.githubusercontent.com/68731278/116372132-bf355100-a829-11eb-9130-731e51bd1aa8.png)
+
+
+![Dataset of common words(“I LOVE YOU”) ](https://user-images.githubusercontent.com/68731278/116372999-92ce0480-a82a-11eb-8d8d-56886121a4b0.jpg)
+
+![Dataset of Alphabet(“C”)](https://user-images.githubusercontent.com/68731278/116373360-e0e30800-a82a-11eb-97e0-9b784943a0bd.png)
+
+
+![Training of CNN model(Number 0-9)](https://user-images.githubusercontent.com/68731278/116373095-ada07900-a82a-11eb-9503-9e88619da7de.png)
+
 
 
 ![SYSTEM ARCHITECTURE](https://user-images.githubusercontent.com/68731278/116370767-5a2d2b80-a828-11eb-9b31-4087cb6be549.png)
