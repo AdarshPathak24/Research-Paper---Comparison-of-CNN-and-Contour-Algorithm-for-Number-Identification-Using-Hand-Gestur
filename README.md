@@ -15,11 +15,14 @@ hull defects algorithm and gives the output in the frame. The
 proposed methods of CNN and Contour achieved the accuracy of
 91.2% and 93.8% respectively.
 
-![Certificate of partisipation](https://user-images.githubusercontent.com/68731278/116375036-82b72480-a82c-11eb-9e97-765c423ea4bb.png)
+![Certificate of partisipation](https://user-images.githubusercontent.com/68731278/116375440-e9d4d900-a82c-11eb-8a41-4650370a70d3.png)
 
-![Acceptance of Research Paper](https://user-images.githubusercontent.com/68731278/116375087-8f3b7d00-a82c-11eb-8312-44170c572cce.png)
 
-![Published Research Paper](https://user-images.githubusercontent.com/68731278/116375123-96fb2180-a82c-11eb-96c2-8788eb21082e.png)
+![Acceptance of Research Paper](https://user-images.githubusercontent.com/68731278/116375460-ed686000-a82c-11eb-9d33-3f3b6ac35a7a.png)
+
+
+![Published Research Paper](https://user-images.githubusercontent.com/68731278/116375484-f2c5aa80-a82c-11eb-80db-4bdc329ea808.png)
+
 
 
 ![American Standard Sign Language](https://user-images.githubusercontent.com/68731278/116370371-f4d93a80-a827-11eb-851b-a34ee9b8bd81.jpg)
