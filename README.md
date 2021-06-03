@@ -1,6 +1,9 @@
 
 # Research-Paper---Comparison-of-CNN-and-Contour-Algorithm-for-Number-Identification-Using-Hand-Gestur
 
+Paper Link :-  1) https://www.technoarete.org/common_abstract/pdf/IJERCSE/v8/i5/Ext_53870.pdf
+               2) https://www.researchgate.net/publication/351838657_Comparison_of_CNN_and_Contour_Algorithm_for_Number_Identification_Using_Hand_Gesture_Recognition
+
 This paper compares the performance of two methods
 for hand gesture recognition for number identification. The image
 is captured employing a web camera system and undergoes many
